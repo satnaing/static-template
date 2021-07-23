@@ -1,4 +1,4 @@
-# Froject Name
+# Project Name
 
 Some description ...
 
